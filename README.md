@@ -1,5 +1,4 @@
-<span style="color: red;">This is a markdown version of my application to Neel Nanda's MATS stream. The larger instruction prioritization research in ongoing and not public.</span>
-
+<mark>This is a markdown version of my application to Neel Nanda's MATS stream. The larger instruction prioritization research in ongoing and not public.</mark>
 
 # **How do Language Models Prioritize Conflicting Instructions?**
 
